@@ -1,0 +1,20 @@
+.install {
+	padding-right: 1em;
+}
+
+.install__metamask {
+	color: #fff;
+}
+
+.wallet__address {
+	color: #fff;
+	padding-right: 1em;
+}
+
+.install__metamask:hover {
+	color: #fff;
+}
+
+.wallet__address span {
+	margin: 0 3px;
+}
